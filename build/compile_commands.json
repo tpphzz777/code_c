@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/code_c/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/test01.dir/includes_CXX.rsp -g -o CMakeFiles\\test01.dir\\src\\HJ1.cpp.obj -c E:\\code_c\\src\\HJ1.cpp",
+  "file": "E:/code_c/src/HJ1.cpp",
+  "output": "CMakeFiles/test01.dir/src/HJ1.cpp.obj"
+},
+{
+  "directory": "E:/code_c/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/test01.dir/includes_CXX.rsp -g -o CMakeFiles\\test01.dir\\src\\HJ2.cpp.obj -c E:\\code_c\\src\\HJ2.cpp",
+  "file": "E:/code_c/src/HJ2.cpp",
+  "output": "CMakeFiles/test01.dir/src/HJ2.cpp.obj"
+},
+{
+  "directory": "E:/code_c/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/test01.dir/includes_CXX.rsp -g -o CMakeFiles\\test01.dir\\main.cpp.obj -c E:\\code_c\\main.cpp",
+  "file": "E:/code_c/main.cpp",
+  "output": "CMakeFiles/test01.dir/main.cpp.obj"
+}
+]

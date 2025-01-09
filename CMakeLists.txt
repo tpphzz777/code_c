@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(HuaWeiOd)
+aux_source_directory(src SRC_SUB)
+aux_source_directory(. SRC_CUR)
+add_executable(test01 ${SRC_SUB} ${SRC_CUR})
+include_directories(./includes)
